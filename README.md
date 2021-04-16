@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 ```text
 No Activity tracked this Week
 ```
--->
 <!--END_SECTION:waka-->
